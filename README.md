@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I am **Bersaline Rapal**, and welcome to my **GE4120 – Digital Portfolio**. This repository showcases my activities and projects for **GE 4120: 21st Century IT Skills**, highlighting the knowledge and skills I have developed throughout the course.
+Hello! I am **Bersaline Rapal**, and welcome to my **GE 4120 – Digital Portfolio**. This repository showcases my activities and projects for **GE 4120: 21st Century IT Skills**, highlighting the knowledge and skills I have developed throughout the course.
 
 ## Activities
 
