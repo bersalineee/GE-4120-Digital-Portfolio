@@ -6,6 +6,8 @@ Hello! I am **Bersaline Rapal**, a **21-year-old female** and a **4th Year Nursi
 
 This repository showcases my activities and projects for **GE 4120: 21st Century IT Skills** during the **1st Semester**, highlighting the knowledge and skills I have developed throughout the course.
 
+---
+
 ## 📂 Activities
 
 | Activity | Title |
