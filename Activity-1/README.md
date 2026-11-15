@@ -1,11 +1,11 @@
 # 💜 Activity 1: Presentation Design Principles
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=1,2,3&height=150&section=header&text=Presentation%20Design%20Principles&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,25&height=150&section=header&text=Presentation%20Design%20Principles&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GE%204120-Digital%20Portfolio-800080?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GE%204120-Digital%20Portfolio-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Activity-01-BB8FCE?style=for-the-badge" />
 </p>
 
@@ -30,9 +30,9 @@ In this activity, we were tasked with designing a **Free Coffee** promotional po
 ## 🌸 Key Takeaways
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contrast-800080?style=flat-square" />
-  <img src="https://img.shields.io/badge/Repetition-9932CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Alignment-BA68C8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contrast-BA68C8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repetition-9575CD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Alignment-CE93D8?style=flat-square" />
   <img src="https://img.shields.io/badge/Proximity-E1BEE7?style=flat-square" />
 </p>
 
@@ -41,7 +41,7 @@ In this activity, we were tasked with designing a **Free Coffee** promotional po
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1,2,3&height=80&section=footer&text=✨%20Creativity%20Meets%20Design%20✨&fontSize=18&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,25&height=80&section=footer&text=✨%20Creativity%20Meets%20Design%20✨&fontSize=18&fontColor=ffffff" />
 </p>
 
 <p align="center">
