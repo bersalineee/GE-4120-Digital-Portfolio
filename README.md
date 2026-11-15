@@ -1,52 +1,64 @@
 
-<!-- ═════════════════════ HEADER ═════════════════════ -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                 PURPLE HEADER                  -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E63B6&height=220&section=header&text=GE%204120%3A%2021ST%20CENTURY%20IT%20SKILLS&fontSize=30&fontColor=FFFFFF&fontAlignY=38&fontFamily=Pacifico&animation=fadeIn&desc=My%20Digital%20Portfolio&descSize=20&descAlignY=62&descFont=Pacifico" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=220&section=header&text=GE%204120%3A%2021ST%20CENTURY%20IT%20SKILLS&fontSize=30&fontColor=FFFFFF&fontAlignY=38&fontFamily=Pacifico&animation=fadeIn&desc=My%20Digital%20Portfolio&descSize=20&descAlignY=62&descFont=Pacifico" width="100%" />
 </p>
+
+<h1 align="center">
+  <b>💜 GE 4120: 21ST CENTURY IT SKILLS 💜</b>
+</h1>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--                  PROFILE                       -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="https://github.com/bersalineee.png" width="190" alt="Bersaline J. Rapal" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👩🏻‍🎓%20STUDENT-Bersaline%20J.%20Rapal-6A0DAD?style=for-the-badge&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/👩🏻‍🎓%20BERSALINE%20J.%20RAPAL%20%7C%20BS%20NURSING--4D%20%7C%20ATENEO%20DE%20DAVAO%20UNIVERSITY-6A0DAD?style=for-the-badge&labelColor=4B0082" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🩺%20COURSE%20%26%20YEAR-BS%20Nursing--4D-9370DB?style=for-the-badge&labelColor=4B0082" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🏫%20SCHOOL-Ateneo%20de%20Davao%20University-BA55D3?style=for-the-badge&labelColor=4B0082" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💡%20INTERESTS-Healthcare%20%7C%20Technology%20%7C%20Digital%20Creativity%20%7C%20AI%20Innovation-9932CC?style=for-the-badge&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/💜%20INTERESTS-Healthcare%20%7C%20Technology%20%7C%20Digital%20Creativity%20%7C%20AI%20Innovation%20%7C%20Lifelong%20Learning-9370DB?style=for-the-badge&labelColor=4B0082" />
 </p>
 
 ---
 
-<!-- ═════════════════════ ABOUT THE PORTFOLIO ═════════════════════ -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--             ABOUT THE PORTFOLIO                -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/🌷%20ABOUT%20THE%20PORTFOLIO-6A0DAD?style=for-the-badge&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/୨୧%20ABOUT%20THE%20PORTFOLIO%20୨୧-6A0DAD?style=for-the-badge&labelColor=4B0082" />
 </h2>
 
-> ✨ *Welcome to my digital showcase!* ✨
->
-> This portfolio brings together my learning experiences and creative progress in **GE 4120: 21st Century IT Skills**. It features the various outputs I have accomplished throughout the semester, including activity submissions, design projects, project documentation, and academic assignments.
->
-> As a fourth-year nursing student, I am passionate about exploring how digital technology and innovative tools can support learning, creativity, communication, and future healthcare practice.
->
-> This portfolio reflects my journey in developing digital literacy, enhancing my creative skills, and learning to use technology effectively and responsibly. 💜
+<blockquote>
+
+<p align="center">
+  <i><b><font color="#8E63B6">✧･ﾟ: *✧ Welcome to my digital showcase! ✧* :･ﾟ✧</font></b></i>
+</p>
+
+This portfolio brings together my learning experiences and creative progress in **GE 4120: 21st Century IT Skills**. It features the various outputs I have accomplished throughout the semester, including activity submissions, design projects, project documentation, and academic assignments.
+
+As a fourth-year nursing student, I am passionate about exploring how digital technology and innovative tools can support learning, creativity, communication, and future healthcare practice.
+
+Through this portfolio, I showcase the skills I have developed, the knowledge I have gained, and the experiences that have helped me grow in using technology creatively, effectively, and responsibly. 💜
+
+</blockquote>
 
 ---
 
-<!-- ═════════════════════ SKILLS ═════════════════════ -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                SKILLS & TOOLS                 -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/🛠️%20SKILLS%20%26%20TOOLS-8A2BE2?style=for-the-badge&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/୨୧%20SKILLS%20%26%20TOOLS%20୨୧-8A2BE2?style=for-the-badge&labelColor=4B0082" />
 </h2>
 
 <p align="center">
@@ -58,32 +70,56 @@
   <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
-  <b>🎨 Visual Design</b> • <b>🌈 Color Theory & Typography</b> • <b>📊 Spreadsheet Skills</b>
-  <br>
-  <b>🤖 AI Literacy & Prompt Engineering</b> • <b>🌐 Website Creation</b> • <b>📁 Digital Portfolio Management</b>
-</p>
-
-- **Visual Design** – Creating appealing presentations, layouts, and infographics.
-- **Color Palette & Typography** – Applying color theory, font pairing, and visual hierarchy.
-- **Spreadsheet Skills** – Organizing and presenting data using Google Sheets.
-- **AI Literacy** – Using AI tools, such as ChatGPT, Canva AI, and Base44, and writing effective prompts for creative and academic tasks.
-- **Website Creation** – Developing websites with AI-assisted tools.
-- **Digital Portfolio Management** – Organizing and showcasing academic outputs using GitHub.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Visual Design</h3>
+      <i><sub>Creating visually appealing presentations, layouts, and infographics.</sub></i>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌈 Color Palette & Typography</h3>
+      <i><sub>Applying color theory, font pairing, and visual hierarchy.</sub></i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📊 Spreadsheet Skills</h3>
+      <i><sub>Organizing and presenting data using Google Sheets.</sub></i>
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 AI Literacy</h3>
+      <i><sub>Using AI tools, such as ChatGPT, Canva AI, and Base44, and writing effective prompts for creative and academic tasks.</sub></i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Website Creation</h3>
+      <i><sub>Developing websites with AI-assisted tools.</sub></i>
+    </td>
+    <td align="center" width="50%">
+      <h3>📁 Digital Portfolio Management</h3>
+      <i><sub>Organizing and showcasing academic outputs using GitHub.</sub></i>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ═════════════════════ MY SHOWCASE ═════════════════════ -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                 MY SHOWCASE                    -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/💜%20MY%20SHOWCASE%20💜-6A0DAD?style=for-the-badge&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/୨୧%20MY%20SHOWCASE%20୨୧-6A0DAD?style=for-the-badge&labelColor=4B0082" />
 </h2>
 
 <p align="center">
-  <i>Explore my academic activities and outputs. Click each activity to view its corresponding folder.</i>
+  <i><font color="#8E63B6">Explore my academic activities and outputs. Click each activity to view its corresponding folder.</font></i>
 </p>
 
-<!-- ═════════════════════ PRELIM ═════════════════════ -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                    PRELIM                      -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/✦%20PRELIM%20✦-4B0082?style=for-the-badge" />
@@ -107,6 +143,7 @@
       </a>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <h3>Presentation Design Principles</h3>
@@ -118,17 +155,19 @@
       <h3>Social Media Infographics & Mini Project Documentation</h3>
     </td>
   </tr>
+
   <tr>
     <td align="center">
-      <sub>Explores the fundamental principles of effective presentation design, including alignment, contrast, visual hierarchy, and proper slide organization.</sub>
+      <i><sub>Explores the fundamental principles of effective presentation design, including alignment, contrast, visual hierarchy, and proper slide organization.</sub></i>
     </td>
     <td align="center">
-      <sub>Focuses on color harmony, typography selection, and visual consistency to create appealing, readable, and engaging digital designs.</sub>
+      <i><sub>Focuses on color harmony, typography selection, and visual consistency to create appealing, readable, and engaging digital designs.</sub></i>
     </td>
     <td align="center">
-      <sub>Showcases infographic creation and project documentation that communicate information through clear and creative visual presentation.</sub>
+      <i><sub>Showcases infographic creation and project documentation that communicate information through clear and creative visual presentation.</sub></i>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <br>
@@ -151,6 +190,8 @@
   </tr>
 </table>
 
+<!-- PRELIM VIDEO PRESENTATION -->
+
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1X0wSQv81AMGsrfuIsKpVYkrW6PVFOnvB?usp=sharing">
     <img src="https://img.shields.io/badge/🎬%20WATCH%20MY%20PRELIM%20VIDEO%20PRESENTATION-6A0DAD?style=for-the-badge&logo=google-drive&logoColor=white" />
@@ -158,12 +199,14 @@
 </p>
 
 <p align="center">
-  <i>Click the button to access my Prelim Video Presentation on Google Drive.</i>
+  <i><sub>Click the button above to access my Prelim Video Presentation on Google Drive.</sub></i>
 </p>
 
 ---
 
-<!-- ═════════════════════ MIDTERM ═════════════════════ -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                   MIDTERM                      -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/✦%20MIDTERM%20✦-6A0DAD?style=for-the-badge&labelColor=4B0082" />
@@ -175,10 +218,15 @@
       <a href="https://github.com/bersalineee/GE-4120-Digital-Portfolio/tree/main/Activity-4">
         <img src="https://img.shields.io/badge/📊%20ACTIVITY%204-8A2BE2?style=for-the-badge" />
       </a>
+
       <br><br>
+
       <h3>Google Sheets</h3>
-      <sub>Highlights the features and applications of Google Sheets in data organization, spreadsheet management, collaboration, and productivity through a group presentation and report.</sub>
+
+      <i><sub>Highlights the features and applications of Google Sheets in data organization, spreadsheet management, collaboration, and productivity through a group presentation and report.</sub></i>
+
       <br><br>
+
       <a href="https://github.com/bersalineee/GE-4120-Digital-Portfolio/tree/main/Activity-4">
         <img src="https://img.shields.io/badge/💜%20VIEW%20ACTIVITY-BA55D3?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -188,7 +236,9 @@
 
 ---
 
-<!-- ═════════════════════ PRE-FINALS ═════════════════════ -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                 PRE-FINALS                     -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/✦%20PRE--FINALS%20✦-8A2BE2?style=for-the-badge&labelColor=4B0082" />
@@ -212,6 +262,7 @@
       </a>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <h3>AI Tools Activity</h3>
@@ -223,17 +274,19 @@
       <h3>Resume Generating</h3>
     </td>
   </tr>
+
   <tr>
     <td align="center">
-      <sub>Explores AI tools, image generation, and prompt engineering to produce creative digital outputs.</sub>
+      <i><sub>Explores AI tools, image generation, and prompt engineering to produce creative digital outputs.</sub></i>
     </td>
     <td align="center">
-      <sub>Demonstrates AI-assisted website creation using Base44 and the application of digital tools in web development.</sub>
+      <i><sub>Demonstrates AI-assisted website creation using Base44 and the application of digital tools in web development.</sub></i>
     </td>
     <td align="center">
-      <sub>Explores the use and comparison of AI language models in generating and improving a professional resume.</sub>
+      <i><sub>Explores the use and comparison of AI language models in generating and improving a professional resume.</sub></i>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <br>
@@ -258,10 +311,12 @@
 
 ---
 
-<!-- ═════════════════════ PURPLE FOOTER ═════════════════════ -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                   FOOTER                       -->
+<!-- ═══════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=3&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4B0082&height=4&section=footer" width="100%" />
 </p>
 
 <h2 align="center">
