@@ -5,9 +5,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8E63B6&height=220&section=header&text=GE%204120%3A%2021ST%20CENTURY%20IT%20SKILLS&fontSize=30&fontColor=FFFFFF&fontAlignY=38&fontFamily=Pacifico&animation=fadeIn&desc=My%20Digital%20Portfolio&descSize=20&descAlignY=62&descFont=Pacifico" width="100%" />
 </p>
 
-<h1 align="center">
-  💜 GE 4120: 21ST CENTURY IT SKILLS 💜
-</h1>
+<p align="center">
+  <img src="https://github.com/bersalineee.png" width="190" alt="Bersaline J. Rapal" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/👩🏻‍🎓%20STUDENT-Bersaline%20J.%20Rapal-6A0DAD?style=for-the-badge&labelColor=4B0082" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🩺%20COURSE%20%26%20YEAR-BS%20Nursing--4D-9370DB?style=for-the-badge&labelColor=4B0082" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏫%20SCHOOL-Ateneo%20de%20Davao%20University-BA55D3?style=for-the-badge&labelColor=4B0082" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💡%20INTERESTS-Healthcare%20%7C%20Technology%20%7C%20Digital%20Creativity%20%7C%20AI%20Innovation-9932CC?style=for-the-badge&labelColor=4B0082" />
+</p>
 
 ---
 
