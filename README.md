@@ -212,40 +212,36 @@ Through this portfolio, I showcase the skills I have developed, the knowledge I 
   <img src="https://img.shields.io/badge/✦%20MIDTERM%20✦-6A0DAD?style=for-the-badge&labelColor=4B0082" />
 </h3>
 
-<table width="100%">
+<div align="center">
+
+<table>
   <tr>
-    <td width="33.33%" align="center"></td>
-    <td width="33.33%" align="center">
+    <td align="center" bgcolor="#6A0DAD">
       <a href="https://github.com/bersalineee/GE-4120-Digital-Portfolio/tree/main/Activity-4">
         <img src="https://img.shields.io/badge/📊%20ACTIVITY%204-8A2BE2?style=for-the-badge" />
       </a>
     </td>
-    <td width="33.33%" align="center"></td>
   </tr>
   <tr>
-    <td width="33.33%" align="center"></td>
-    <td width="33.33%" align="center" bgcolor="#F5F3FA">
+    <td align="center" bgcolor="#F5F3FA">
       <h3>Google Sheets</h3>
     </td>
-    <td width="33.33%" align="center"></td>
   </tr>
   <tr>
-    <td width="33.33%" align="center"></td>
-    <td width="33.33%" align="center">
+    <td align="center">
       <i><sub>Highlights the features and applications of Google Sheets in data organization, spreadsheet management, collaboration, and productivity through a group presentation and report.</sub></i>
     </td>
-    <td width="33.33%" align="center"></td>
   </tr>
   <tr>
-    <td width="33.33%" align="center"></td>
-    <td width="33.33%" align="center" bgcolor="#F5F3FA">
+    <td align="center" bgcolor="#F5F3FA">
       <a href="https://github.com/bersalineee/GE-4120-Digital-Portfolio/tree/main/Activity-4">
         <img src="https://img.shields.io/badge/💜%20VIEW%20ACTIVITY-BA55D3?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <td width="33.33%" align="center"></td>
   </tr>
 </table>
+
+</div>
 
 ---
 
