@@ -4,12 +4,8 @@
 <!-- ═══════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=220&section=header&text=GE%204120%3A%2021ST%20CENTURY%20IT%20SKILLS&fontSize=30&fontColor=FFFFFF&fontAlignY=38&fontFamily=Pacifico&animation=fadeIn&desc=My%20Digital%20Portfolio&descSize=20&descAlignY=62&descFont=Pacifico" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E63B6&height=220&section=header&text=%F0%9F%92%9C%20GE%204120%3A%2021ST%20CENTURY%20IT%20SKILLS%20%F0%9F%92%9C&fontSize=30&fontColor=FFFFFF&fontAlignY=38&fontFamily=Pacifico&animation=fadeIn&desc=My%20Digital%20Portfolio&descSize=20&descAlignY=62&descFont=Pacifico" width="100%" />
 </p>
-
-<h1 align="center">
-  <b>💜 GE 4120: 21ST CENTURY IT SKILLS 💜</b>
-</h1>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--                  PROFILE                       -->
@@ -20,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👩🏻‍🎓%20BERSALINE%20J.%20RAPAL%20%7C%20BS%20NURSING--4D%20%7C%20ATENEO%20DE%20DAVAO%20UNIVERSITY-6A0DAD?style=for-the-badge&labelColor=4B0082" />
+  <img src="https://img.shields.io/badge/%20BERSALINE%20J.%20RAPAL%20%7C%20BS%20NURSING--4D%20%7C%20ATENEO%20DE%20DAVAO%20UNIVERSITY-6A0DAD?style=for-the-badge&labelColor=4B0082" />
 </p>
 
 <p align="center">
@@ -40,14 +36,18 @@
 <blockquote>
 
 <p align="center">
-  <i><b><font color="#8E63B6">✧･ﾟ: *✧ Welcome to my digital showcase! ✧* :･ﾟ✧</font></b></i>
+  <i><b><font color="#8E63B6">♡･ﾟ: *♡ Welcome to my digital showcase! ♡* :･ﾟ♡</font></b></i>
 </p>
+
+<div align="justify">
 
 This portfolio brings together my learning experiences and creative progress in **GE 4120: 21st Century IT Skills**. It features the various outputs I have accomplished throughout the semester, including activity submissions, design projects, project documentation, and academic assignments.
 
 As a fourth-year nursing student, I am passionate about exploring how digital technology and innovative tools can support learning, creativity, communication, and future healthcare practice.
 
 Through this portfolio, I showcase the skills I have developed, the knowledge I have gained, and the experiences that have helped me grow in using technology creatively, effectively, and responsibly. 💜
+
+</div>
 
 </blockquote>
 
@@ -204,6 +204,7 @@ Through this portfolio, I showcase the skills I have developed, the knowledge I 
 
 ---
 
+
 <!-- ═══════════════════════════════════════════════ -->
 <!--                   MIDTERM                      -->
 <!-- ═══════════════════════════════════════════════ -->
@@ -214,23 +215,48 @@ Through this portfolio, I showcase the skills I have developed, the knowledge I 
 
 <table>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="33%"></td>
+
+    <td align="center" width="34%">
       <a href="https://github.com/bersalineee/GE-4120-Digital-Portfolio/tree/main/Activity-4">
         <img src="https://img.shields.io/badge/📊%20ACTIVITY%204-8A2BE2?style=for-the-badge" />
       </a>
+    </td>
 
-      <br><br>
+    <td align="center" width="33%"></td>
+  </tr>
 
+  <tr>
+    <td align="center"></td>
+
+    <td align="center">
       <h3>Google Sheets</h3>
+    </td>
 
+    <td align="center"></td>
+  </tr>
+
+  <tr>
+    <td align="center"></td>
+
+    <td align="center">
       <i><sub>Highlights the features and applications of Google Sheets in data organization, spreadsheet management, collaboration, and productivity through a group presentation and report.</sub></i>
+    </td>
 
-      <br><br>
+    <td align="center"></td>
+  </tr>
 
+  <tr>
+    <td align="center"></td>
+
+    <td align="center">
+      <br>
       <a href="https://github.com/bersalineee/GE-4120-Digital-Portfolio/tree/main/Activity-4">
         <img src="https://img.shields.io/badge/💜%20VIEW%20ACTIVITY-BA55D3?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+
+    <td align="center"></td>
   </tr>
 </table>
 
