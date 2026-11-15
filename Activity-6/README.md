@@ -1,7 +1,7 @@
 # 💜 Activity 6: Making a Website
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,12,20&height=150&section=header&text=ERSim%20Website%20Project&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,25&height=150&section=header&text=Making%20a%20Website&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ For this activity, we were tasked to create a one-page website based on a person
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,20&height=80&section=footer&text=✨%20Think%20Fast.%20Act%20Smart.%20Save%20Lives.%20✨&fontSize=17&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,25&height=80&section=footer&text=✨%20Creativity%20Meets%20Technology%20✨&fontSize=18&fontColor=ffffff" />
 </p>
 
 <p align="center">
